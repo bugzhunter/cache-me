@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CacheMe_Example' do
+  pod 'CacheMe', :path => '../'
+
+  target 'CacheMe_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

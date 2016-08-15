@@ -1,0 +1,16 @@
+PODS:
+  - CacheMe (0.1.0)
+
+DEPENDENCIES:
+  - CacheMe (from `../`)
+
+EXTERNAL SOURCES:
+  CacheMe:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CacheMe: 9265c9230f1c500bf5f12a77d80d7af86c182a46
+
+PODFILE CHECKSUM: 778932c8052a3754c1eefe4a4cb00b14f6d34400
+
+COCOAPODS: 1.0.1
